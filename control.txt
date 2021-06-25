@@ -1,3 +1,0 @@
-Move on left:"q" or left 
-Move on right:"d" or right
-Do a fire:space
